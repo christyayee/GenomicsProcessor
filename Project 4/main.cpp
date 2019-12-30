@@ -46,7 +46,7 @@
 ////    cout << endl;
 ////    tree.print();
 //    
-////    ifstream infile("/Users/christy/Library/Mobile Documents/com~apple~CloudDocs/Winter Quarter/CS32/Project 4/Gee-nomics/data/Halobacterium_jilantaiense.txt");
+////    ifstream infile("/Users/christy/Library/Mobile Documents/com~apple~ButtDocs/Winter Quarter/CS32/Project 4/Gee-nomics/data/Halobacterium_jilantaiense.txt");
 ////    if (infile)
 ////    {
 ////        vector<Genome> g;
@@ -185,11 +185,8 @@
 //    cout << endl;
 //    
 //    
-//    cout << "yay bitch" << endl;
 //}
 //
 ////GAAGAGTAGGTTGG
-//
-////bigO of substring??
-////how to treat empty string as key input
+
 
